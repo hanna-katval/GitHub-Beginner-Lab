@@ -49,7 +49,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(186, 16);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Contact Number: 09677538716";
+            this.label2.Text = "Contact Number: 09677538717";
             // 
             // Form1
             // 
